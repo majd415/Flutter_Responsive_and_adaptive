@@ -4,7 +4,7 @@ import 'package:responsive/adaptev_endecetor.dart';
 import 'package:responsive/constants.dart';
 
 class MobileScreen extends StatelessWidget {
-
+//new test branch
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -110,3 +110,5 @@ class MobileScreen extends StatelessWidget {
     );
   }
 }
+
+
